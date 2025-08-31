@@ -67,7 +67,7 @@ event-photo-upload/
 
 ```bash
 git clone https://github.com/your-username/event-photo-upload.git
-cd event-photo-upload
+cd EventUpload
 npm install
 npm run dev
 ````
